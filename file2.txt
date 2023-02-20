@@ -1,1 +1,2 @@
 Ini adalah file 2
+Menambah baris baru pada file 2
