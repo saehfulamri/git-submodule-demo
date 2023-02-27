@@ -1,3 +1,8 @@
 Ini adalah file 1
 Menambah baris baru pada file 1
+<<<<<<< HEAD
 Menambah baris dua pada file 1qq
+=======
+Menambah baris dua pada file 1
+Feature 1
+>>>>>>> feature/1
