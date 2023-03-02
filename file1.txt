@@ -7,4 +7,6 @@ Menambah baris dua pada file 1
 Feature 1
 >>>>>>> feature/1
 
+
 Feature A pada file 1
+Feature B pada file 1
