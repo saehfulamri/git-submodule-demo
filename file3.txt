@@ -5,3 +5,5 @@ Menambah baris baru pada file 3
 
 Menambah feature 3
 Feature B pada file 3
+
+Feature C pada file 3
