@@ -7,3 +7,4 @@ Menambah baris baru pada file 3
 >>>>>>> parent of 49bfa5f (Menambah baris baru pada file 3)
 
 Menambah feature 3
+Feature B pada file 3
