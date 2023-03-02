@@ -1,10 +1,7 @@
 Ini adalah file 3
-<<<<<<< HEAD
 Menambah baris baru pada file 3
 Menambah baris kedua pada file 3
-=======
 Menambah baris baru pada file 3
->>>>>>> parent of 49bfa5f (Menambah baris baru pada file 3)
 
 Menambah feature 3
 Feature B pada file 3
