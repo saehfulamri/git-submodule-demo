@@ -2,3 +2,5 @@ Ini adalah file 2
 Menambah baris baru pada file 2
 Menambah feature 2
 Feature A di file 2
+
+Fitur Utama di file 2
