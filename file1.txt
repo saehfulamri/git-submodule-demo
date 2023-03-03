@@ -11,3 +11,5 @@ Feature B pada file 1
 Feature C pada file
 
 Rebase
+
+Feature squash di file 1

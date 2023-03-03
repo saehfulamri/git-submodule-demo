@@ -5,3 +5,5 @@ Feature A di file 2
 
 Fitur Utama di file 2
 Fitur Rebase pada file 2
+
+Feature squash di file 2
