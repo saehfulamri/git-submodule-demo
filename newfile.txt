@@ -1,0 +1,2 @@
+Ini adalah contoh untuk git fetch
+ini adalah baris ke dua untuk newtext
