@@ -1,5 +1,6 @@
 # Ignore folder log
 log/
+belajar-git-dasar-user2/
 
 # Ignore file dengan extension .backup
 *.backup
